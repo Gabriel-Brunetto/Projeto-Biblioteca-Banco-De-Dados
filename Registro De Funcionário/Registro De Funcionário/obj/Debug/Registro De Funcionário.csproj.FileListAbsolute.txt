@@ -1,0 +1,14 @@
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\bin\Debug\Registro De Funcionário.exe.config
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\bin\Debug\Registro De Funcionário.exe
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\bin\Debug\Registro De Funcionário.pdb
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro De Funcionário.csproj.AssemblyReference.cache
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.Login.resources
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.Properties.Resources.resources
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro De Funcionário.csproj.GenerateResource.cache
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro De Funcionário.csproj.CoreCompileInputs.cache
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro De Funcionário.exe
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro De Funcionário.pdb
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.CadastroUsu.resources
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.Menu.resources
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.livros.resources
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.adicionarLivro.resources

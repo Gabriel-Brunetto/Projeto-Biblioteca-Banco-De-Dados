@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|d:\\gabriel brunetto\\programa\u00E7\u00E3o de banco de dados\\registrodefuncionario\\registro de funcion\u00E1rio\\registro de funcion\u00E1rio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\bibliotecadataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\bibliotecadataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\adicionarlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\adicionarlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\adicionarlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\adicionarlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\cadastrousu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\cadastrousu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\cadastrousu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\cadastrousu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\registro de funcion\u00E1rio\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E8E303F-9A4F-4A8B-B7F2-84608D3002F5}|Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio.csproj|solutionrelative:registro de funcion\u00E1rio\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BibliotecaDataSet.xsd",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\BibliotecaDataSet.xsd",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\BibliotecaDataSet.xsd",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\BibliotecaDataSet.xsd",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\BibliotecaDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-10T22:59:13.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adicionarLivro.cs",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\adicionarLivro.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\adicionarLivro.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\adicionarLivro.cs",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\adicionarLivro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:11:16.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Login.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\Login.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Login.cs",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\Login.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:39:58.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\App.config",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\App.config",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\App.config",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-10T00:12:09.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Program.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\Program.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Program.cs",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:11:51.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adicionarLivro.cs [Design]",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\adicionarLivro.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\adicionarLivro.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\adicionarLivro.cs [Design]",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\adicionarLivro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:05:08.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Menu.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\Menu.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Menu.cs [Design]",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:57:42.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Login.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\Login.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Login.cs [Design]",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:58:31.736Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\Menu.Designer.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Menu.Designer.cs",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\Menu.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv1EAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:12:33.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CadastroUsu.cs",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\CadastroUsu.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\CadastroUsu.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\CadastroUsu.cs",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\CadastroUsu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:32:37.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CadastroUsu.cs [Design]",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\CadastroUsu.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\CadastroUsu.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\CadastroUsu.cs [Design]",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\CadastroUsu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:18:17.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Menu.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\Menu.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Menu.cs",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\Menu.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:01:24.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "livros.cs [Design]",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\livros.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\livros.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\livros.cs [Design]",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\livros.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:26:29.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "livros.cs",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\livros.cs",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\livros.cs",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\livros.cs",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\livros.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:32:16.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Registro De Funcion\u00E1rio\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Gabriel Brunetto\\Programa\u00E7\u00E3o De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcion\u00E1rio\\Registro De Funcion\u00E1rio\\Properties\\Resources.resx",
+              "RelativeToolTip": "Registro De Funcion\u00E1rio\\Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwH4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-28T23:38:36.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
