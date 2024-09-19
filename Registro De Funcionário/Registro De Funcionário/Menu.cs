@@ -28,5 +28,11 @@ namespace Registro_De_Funcionário
             new Login().Show();
             this.Hide();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            new EmprestimoLivro().Show();
+            this.Hide();
+        }
     }
 }

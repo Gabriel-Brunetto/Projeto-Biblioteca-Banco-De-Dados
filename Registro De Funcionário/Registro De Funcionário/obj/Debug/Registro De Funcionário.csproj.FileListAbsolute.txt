@@ -12,3 +12,5 @@ D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Regist
 D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.Menu.resources
 D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.livros.resources
 D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.adicionarLivro.resources
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.EmprestimoLivro.resources
+D:\Gabriel Brunetto\Programação De Banco De Dados\RegistroDeFuncionario\Registro De Funcionário\Registro De Funcionário\obj\Debug\Registro_De_Funcionário.EmprestimoADD.resources

@@ -57,11 +57,28 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>BibliotecaDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="BibliotecaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BibliotecaDataSet1.xsd</DependentUpon>
+    </Compile>
     <Compile Include="CadastroUsu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CadastroUsu.Designer.cs">
       <DependentUpon>CadastroUsu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmprestimoADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmprestimoADD.Designer.cs">
+      <DependentUpon>EmprestimoADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmprestimoLivro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmprestimoLivro.Designer.cs">
+      <DependentUpon>EmprestimoLivro.cs</DependentUpon>
     </Compile>
     <Compile Include="livros.cs">
       <SubType>Form</SubType>
@@ -89,6 +106,12 @@
     <EmbeddedResource Include="CadastroUsu.resx">
       <DependentUpon>CadastroUsu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="EmprestimoADD.resx">
+      <DependentUpon>EmprestimoADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmprestimoLivro.resx">
+      <DependentUpon>EmprestimoLivro.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="livros.resx">
       <DependentUpon>livros.cs</DependentUpon>
     </EmbeddedResource>
@@ -113,6 +136,17 @@
     </None>
     <None Include="BibliotecaDataSet.xss">
       <DependentUpon>BibliotecaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BibliotecaDataSet1.xsc">
+      <DependentUpon>BibliotecaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BibliotecaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BibliotecaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BibliotecaDataSet1.xss">
+      <DependentUpon>BibliotecaDataSet1.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

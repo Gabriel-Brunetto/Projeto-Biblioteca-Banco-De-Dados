@@ -31,20 +31,34 @@ namespace Registro_De_Funcionário
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //SqlConnection con = new SqlConnection();
-            //con.ConnectionString = "D:\\Gabriel Brunetto\\Programação De Banco De Dados\\RegistroDeFuncionario\\Registro De Funcionário\\Registro De Funcionário\\BibliotecaDataSet.xsd";
-            //SqlCommand cmd = new SqlCommand(); 
-            //cmd.Connection = con;
-            //con.Open();
-            
-            new Menu().Show();
-            this.Hide();
+            SqlConnection con = new SqlConnection();
+            con.ConnectionString = @"Data Source=GABRIEL-BRUNETT\SQLEXPRESS;integrated security=SSPI; initial Catalog=Biblioteca";
+            SqlCommand cmd = new SqlCommand(); 
+            cmd.Connection = con;
+            con.Open();
+            string login = "SELECT*FROM usuario where usuario='" +userText.Text+ "'and senha='" + passText.Text + "'";
+            cmd = new SqlCommand(login,con);
+            SqlDataReader dr = cmd.ExecuteReader();
+            if(dr.Read() == true)
+            {
+                new Menu().Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Usuario Invalido", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
 
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
